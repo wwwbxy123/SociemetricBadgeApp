@@ -251,8 +251,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.saoyisao:
 
-              //  Intent intent = new Intent(MainActivity.this, CaptureActivity.class);
-              //  startActivityForResult(intent, 0);
+               // Intent intent = new Intent(MainActivity.this, CaptureActivity.class);
+               // startActivityForResult(intent, 0);
 		}
 
 
